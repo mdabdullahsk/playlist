@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:1,BTV
 #EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:2,BTV News
 #EXTVLCOPT:network-caching=1000
