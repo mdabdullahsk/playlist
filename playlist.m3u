@@ -71,7 +71,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-vid
 
 #EXTINF:19,MyTV
 #EXTVLCOPT:network-caching=1000
-https://tvsen6.aynascope.net/mytv/index.m3u8?e=1774975672&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e9ad090ff97dfa90ffc6598fab324204
+http://103.229.254.25:7001/play/a05z/index.m3u8
 
 #EXTINF:20,Somoy TV
 #EXTVLCOPT:network-caching=1000
