@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:1,BTV
 #EXTVLCOPT:network-caching=1000
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 
 #EXTINF:2,BTV News
 #EXTVLCOPT:network-caching=1000
@@ -9,6 +9,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:3,BTV Chottogram
 #EXTVLCOPT:network-caching=1000
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 
 #EXTINF:4,Sangshad TV
 #EXTVLCOPT:network-caching=1000
