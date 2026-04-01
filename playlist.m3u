@@ -131,6 +131,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-vid
 
 #EXTINF:34,Ekhon TV
 #EXTVLCOPT:network-caching=1000
+http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 
 #EXTINF:35,Global TV
 #EXTVLCOPT:network-caching=1000
